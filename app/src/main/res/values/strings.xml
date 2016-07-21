@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GitHubTest</string>
+    <string name="existing_asset">Existing Asset</string>
+    <string name="create_new_asset">Create New Asset</string>
+    <string name="choose_from">Make new expense entry for </string>
 </resources>
